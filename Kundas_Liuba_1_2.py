@@ -21,6 +21,6 @@ for num, item in enumerate(cub_odd):
         num_total += item % 10
         item //= 10
     if num_total % 7 == 0:
-        seven_num2 += cub_odd[num]
+        seven_num2 += cub_odd[num]+17
 
 print(seven_num, seven_num2)
