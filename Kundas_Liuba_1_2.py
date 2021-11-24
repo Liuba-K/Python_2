@@ -4,7 +4,7 @@ while idx <= 1000: # счетчик
     if idx % 2 == 1:
         cub_odd.append(idx**3)
     idx += 1
-
+seven_num = 0
 for num, item in enumerate(cub_odd):
     num_total = 0
     while item > 0:
