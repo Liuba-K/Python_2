@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson_4" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 4-3">
+      <change afterPath="$PROJECT_DIR$/lesson_4_4/currency_rates.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson_3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21boBmlYzQcNdqUhgszEOCJtUJo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Kundas_Liuba_1_1">
+    <configuration name="Kundas_Liuba_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kundas_Liuba_1_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kundas_Liuba_3-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kundas_Liuba_3-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Kundas_Liuba_1_1" />
+        <item itemvalue="Python.Kundas_Liuba_3-3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="" />
+      <created>1638219014281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638219014281</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Task 3_1-2">
+      <created>1638219409450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638219409450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task 3_3">
+      <created>1638219952400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638219952401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task 3_5">
+      <created>1638220120939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638220120940</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third_brain">
+      <created>1638221077306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638221077306</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task 4-3">
+      <created>1638619237205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638619237205</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="lesson_4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 3_1-2" />
+    <MESSAGE value="Task 3_3" />
+    <MESSAGE value="Task 3_5" />
+    <MESSAGE value="third_brain" />
+    <MESSAGE value="task 4-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4-3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="808" y="28" key="#Kundas_Liuba_1_1/65.0.1471.864@65.0.1471.864" timestamp="1638221830699" />
+    <state x="808" y="28" key="#Kundas_Liuba_3-3" timestamp="1638220054522">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="808" y="28" key="#Kundas_Liuba_3-3/65.0.1471.864@65.0.1471.864" timestamp="1638220054522" />
+    <state x="978" y="295" key="#Notifications" timestamp="1638220368219">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="978" y="295" key="#Notifications/65.0.1471.864@65.0.1471.864" timestamp="1638220368219" />
+    <state x="873" y="187" key="FileChooserDialogImpl" timestamp="1638304029188">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="873" y="187" key="FileChooserDialogImpl/65.0.1471.864@65.0.1471.864" timestamp="1638304029188" />
+    <state x="971" y="330" width="286" height="203" key="Github.ShareDialog" timestamp="1638220681717">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="971" y="330" width="286" height="203" key="Github.ShareDialog/65.0.1471.864@65.0.1471.864" timestamp="1638220681717" />
+    <state x="638" y="153" key="RollbackChangesDialog" timestamp="1638220930033">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="638" y="153" key="RollbackChangesDialog/65.0.1471.864@65.0.1471.864" timestamp="1638220930033" />
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1638221085091">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1638221085091" />
+  </component>
+</project>
