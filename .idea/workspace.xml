@@ -30,7 +30,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 6&#10;create show" />
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 6-3&#10;create csv">
+      <change afterPath="$PROJECT_DIR$/hobby.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobby.csv.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639238622807</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="task 6-3&#10;create csv">
+      <created>1639238771717</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639238771717</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +302,8 @@
     <MESSAGE value="task 6&#10;create csv" />
     <MESSAGE value="task 6&#10;create add" />
     <MESSAGE value="task 6&#10;create show" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 6&#10;create show" />
+    <MESSAGE value="task 6-3&#10;create csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 6-3&#10;create csv" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
@@ -322,9 +334,9 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="638" y="153" key="RollbackChangesDialog/65.0.1471.864@65.0.1471.864" timestamp="1638220930033" />
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1638221085091">
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1639238494294">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1638221085091" />
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1639238494294" />
   </component>
 </project>
