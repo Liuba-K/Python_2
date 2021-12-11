@@ -25,14 +25,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:lesson_5" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson_6" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 6&#10;create show" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_4" />
+        <entry key="$PROJECT_DIR$" value="lesson_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,6 +64,9 @@
     </option>
   </component>
   <component name="ProjectId" id="21boBmlYzQcNdqUhgszEOCJtUJo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -227,7 +228,28 @@
       <option name="project" value="LOCAL" />
       <updated>1638918242794</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="task 6&#10;create csv">
+      <created>1639238477511</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639238477511</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task 6&#10;create add">
+      <created>1639238570733</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639238570733</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task 6&#10;create show">
+      <created>1639238622807</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639238622807</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +263,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson_5" />
+                        <option value="lesson_6" />
                       </list>
                     </value>
                   </entry>
@@ -266,7 +288,10 @@
     <MESSAGE value="task 1-2" />
     <MESSAGE value="task 4" />
     <MESSAGE value="task 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 5" />
+    <MESSAGE value="task 6&#10;create csv" />
+    <MESSAGE value="task 6&#10;create add" />
+    <MESSAGE value="task 6&#10;create show" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 6&#10;create show" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
