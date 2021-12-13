@@ -9,9 +9,6 @@ with open("users.csv", "r", encoding="utf-8") as user:
         for line in hobby:
             hobby_lines.append(line.replace("\n", ""))
 
-result = (line for line in zip_longest(user_lines, hobby_lines) if len(user_lines) > len(hobby_lines))
-for line in result:
-    print(line)
-
-
-
+result = {user_l: hobby_l for user_l, hobby_l in zip_longest(user_lines, hobby_lines) if
+          len(user_lines) > len(hobby_lines)}
+print(result)
