@@ -30,9 +30,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="modified task 6-3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 6-3 (вариант_2)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Kundas_Liuba_1_1">
+  <component name="RunManager" selected="Python.Kundas_Liuba_7-1">
     <configuration name="Kundas_Liuba_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,8 +119,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Kundas_Liuba_7-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kundas_Liuba_7-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Kundas_Liuba_7-1" />
         <item itemvalue="Python.Kundas_Liuba_1_1" />
         <item itemvalue="Python.Kundas_Liuba_3-3" />
       </list>
@@ -314,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639430178021</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="task 6-3 (вариант_2)">
+      <created>1639430870187</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1639430870187</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,7 +389,8 @@
     <MESSAGE value="task 6-3" />
     <MESSAGE value="modified task 6-1" />
     <MESSAGE value="modified task 6-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified task 6-3" />
+    <MESSAGE value="task 6-3 (вариант_2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 6-3 (вариант_2)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
@@ -393,10 +421,10 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="638" y="153" key="RollbackChangesDialog/65.0.1471.864@65.0.1471.864" timestamp="1638220930033" />
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1639430181231">
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1639430874637">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1639430181231" />
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1639430874637" />
     <state x="440" y="161" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1639239238988">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
