@@ -6,31 +6,17 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:lesson_6" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson_7" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 6-3 (вариант_2)" />
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 7-1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_5" />
+        <entry key="$PROJECT_DIR$" value="lesson_6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -341,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639430870187</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="task 7-1">
+      <created>1639483162672</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1639483162672</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +348,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson_6" />
+                        <option value="lesson_7" />
                       </list>
                     </value>
                   </entry>
@@ -390,7 +383,8 @@
     <MESSAGE value="modified task 6-1" />
     <MESSAGE value="modified task 6-3" />
     <MESSAGE value="task 6-3 (вариант_2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 6-3 (вариант_2)" />
+    <MESSAGE value="task 7-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 7-1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
@@ -401,10 +395,18 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="808" y="28" key="#Kundas_Liuba_3-3/65.0.1471.864@65.0.1471.864" timestamp="1638220054522" />
+    <state x="808" y="28" key="#Kundas_Liuba_7-1" timestamp="1639483138104">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="808" y="28" key="#Kundas_Liuba_7-1/65.0.1471.864@65.0.1471.864" timestamp="1639483138104" />
     <state x="978" y="295" key="#Notifications" timestamp="1638220368219">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="978" y="295" key="#Notifications/65.0.1471.864@65.0.1471.864" timestamp="1638220368219" />
+    <state x="346" y="69" key="DiffContextDialog" timestamp="1639483241064">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="346" y="69" key="DiffContextDialog/65.0.1471.864@65.0.1471.864" timestamp="1639483241064" />
     <state x="873" y="187" key="FileChooserDialogImpl" timestamp="1638304029188">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
@@ -421,10 +423,10 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="638" y="153" key="RollbackChangesDialog/65.0.1471.864@65.0.1471.864" timestamp="1638220930033" />
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1639430874637">
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1639483246856">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1639430874637" />
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1639483246856" />
     <state x="440" y="161" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1639239238988">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
