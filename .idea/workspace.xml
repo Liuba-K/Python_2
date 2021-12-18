@@ -11,12 +11,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:lesson_7" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson_8" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="add exit1 task 6-3" />
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 8-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_6" />
+        <entry key="$PROJECT_DIR$" value="lesson_7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -383,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639596695432</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="task 8-1">
+      <created>1639828869096</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1639828869096</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +406,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson_7" />
+                        <option value="lesson_8" />
                       </list>
                     </value>
                   </entry>
@@ -411,7 +420,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task 3_5" />
     <MESSAGE value="third_brain" />
     <MESSAGE value="task 4-3" />
     <MESSAGE value="task 4-4&#10;create def" />
@@ -436,7 +444,8 @@
     <MESSAGE value="task 7-4" />
     <MESSAGE value="modified task 7-3" />
     <MESSAGE value="add exit1 task 6-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exit1 task 6-3" />
+    <MESSAGE value="task 8-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 8-1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
