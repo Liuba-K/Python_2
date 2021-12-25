@@ -21,12 +21,16 @@ class Cell:
         return Cell(self.cell / other.cell)
 
     def make_order(self, row):
-        pass
+        total = self.cell // row
+        remainder = self.cell % row
+        for i in range(total):
+            print("*" * row)
+        print("*" * remainder)
 
-cell_1 = Cell(13)
+cell_1 = Cell(25)
 cell_2 = Cell(12)
 
 print(cell_1 + cell_2)
 print(cell_1 - cell_2)
 print(cell_1 / cell_2)
-print(cell_2.make_order(5))
+cell_1.make_order(7)
