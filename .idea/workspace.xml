@@ -11,14 +11,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:lesson_10" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson_11" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 10-3 modifiсation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 11-2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_9" />
+        <entry key="$PROJECT_DIR$" value="lesson_10" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -462,7 +460,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640458673569</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="task 11-1 wrong">
+      <created>1640731670020</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1640731670020</updated>
+    </task>
+    <task id="LOCAL-00047" summary="task 11-2">
+      <created>1640731747871</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1640731747871</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,7 +488,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson_10" />
+                        <option value="lesson_11" />
                       </list>
                     </value>
                   </entry>
@@ -490,8 +502,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 6&#10;create show" />
-    <MESSAGE value="task 6-3&#10;create csv" />
     <MESSAGE value="task 6-1&#10;create txt" />
     <MESSAGE value="task 6-1" />
     <MESSAGE value="modified task 6-1" />
@@ -515,7 +525,9 @@
     <MESSAGE value="task 10-2" />
     <MESSAGE value="task 10-3" />
     <MESSAGE value="task 10-3 modifiсation" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 10-3 modifiсation" />
+    <MESSAGE value="task 11-1 wrong" />
+    <MESSAGE value="task 11-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 11-2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
