@@ -16,9 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 11-7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1bddfc8-1864-4ce4-b23a-91a86d72c24f" name="Default Changelist" comment="task 11-4-5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../helloworld" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.Kundas_Liuba_7-1">
     <configuration name="Kundas_Liuba_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -146,13 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638219014281</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Task 3_1-2">
-      <created>1638219409450</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1638219409450</updated>
     </task>
     <task id="LOCAL-00002" summary="Task 3_3">
       <created>1638219952400</created>
@@ -490,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640732135911</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="task 11-4-5">
+      <created>1640812897558</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1640812897558</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -518,7 +516,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="modified task 6-1" />
     <MESSAGE value="modified task 6-3" />
     <MESSAGE value="task 6-3 (вариант_2)" />
     <MESSAGE value="task 7-1" />
@@ -543,7 +540,8 @@
     <MESSAGE value="task 11-2" />
     <MESSAGE value="task 11-3" />
     <MESSAGE value="task 11-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 11-7" />
+    <MESSAGE value="task 11-4-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 11-4-5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="28" key="#Kundas_Liuba_1_1" timestamp="1638221830699">
@@ -558,10 +556,10 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="808" y="28" key="#Kundas_Liuba_7-1/65.0.1471.864@65.0.1471.864" timestamp="1639483138104" />
-    <state x="978" y="295" key="#Notifications" timestamp="1638220368219">
+    <state x="978" y="295" key="#Notifications" timestamp="1640813137657">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
-    <state x="978" y="295" key="#Notifications/65.0.1471.864@65.0.1471.864" timestamp="1638220368219" />
+    <state x="978" y="295" key="#Notifications/65.0.1471.864@65.0.1471.864" timestamp="1640813137657" />
     <state x="346" y="69" key="DiffContextDialog" timestamp="1639483241064">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
@@ -582,10 +580,10 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="638" y="153" key="RollbackChangesDialog/65.0.1471.864@65.0.1471.864" timestamp="1638220930033" />
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1640732050204">
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2" timestamp="1640812904253">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
-    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1640732050204" />
+    <state x="685" y="152" key="Vcs.Push.Dialog.v2/65.0.1471.864@65.0.1471.864" timestamp="1640812904253" />
     <state x="440" y="161" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1639239238988">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
